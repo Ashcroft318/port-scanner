@@ -25,6 +25,10 @@ python main.py --target 8.8.8.8 --ports 25-30 --host-discovery --detailed
 
 ![image](https://github.com/user-attachments/assets/e87f8c35-39bf-4c47-a175-9508a15968a0)
 
+## Diagram on how a Port Scanner works:
+![image](https://github.com/user-attachments/assets/f67e75f6-6d38-4921-a260-634855e95f30)
+
+
 ## Requirements:
 - Python 3.7+
 - Rich
